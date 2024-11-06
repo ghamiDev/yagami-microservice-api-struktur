@@ -1,0 +1,19 @@
+{
+  "name": "yagami-microservice-api",
+  "version": "1.0.0",
+  "description": "api node js dengan stuktur mikroservis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yagami"
+  },
+  "keywords": [
+    "yagami",
+    "mikroservis"
+  ],
+  "author": "panda_dev, yagami_dev",
+  "license": "ISC"
+}
